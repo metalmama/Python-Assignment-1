@@ -65,5 +65,5 @@ def print_result_function(number):
     else:
         print('Negative number')
 
-
+# Takes the result of the calculation an prints it on the console
 print_result_function(calculator())
